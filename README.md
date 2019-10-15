@@ -1,2 +1,7 @@
 # jsgame100
-立志临摹100个JS小游戏
+
+[微信跳一跳 (1)](https://dongj0316.github.io/jsgame100/examples/#/wx-jump-stage1)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
