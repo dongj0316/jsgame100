@@ -25,6 +25,14 @@ export const withMenuViewRoutes = [
       title: '微信跳一跳 (1)'
     },
     component: () => import(/* webpackChunkName: "wx-jump-stage1" */ './games/wx-jump-1/index.vue')
+  },
+  {
+    path: '/wx-jump-stage2',
+    name: 'wx-jump-stage2',
+    meta: {
+      title: '微信跳一跳 (2)'
+    },
+    component: () => import(/* webpackChunkName: "wx-jump-stage2" */ './games/wx-jump-2/index.vue')
   }
 ]
 
